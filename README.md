@@ -1,40 +1,57 @@
-Hi, I’m Mo'men Atoum
 
-MSc student in ICT & Internet Engineering at the University of Rome Tor Vergata.
+# Hi, I'm Mo'men Atoum
 
-Cloud and Network Engineer focused on understanding and building modern cloud infrastructure from the ground up.
+**MSc Student in ICT & Internet Engineering | Cloud & Network Engineering | AI-Driven Network Automation**
 
-Areas of Focus
-- Cloud infrastructure and Infrastructure as a Service (IaaS)
-- Virtualization technologies (QEMU, KVM)
-- Software-Defined Networking (Open vSwitch, VXLAN)
-- Container platforms (Docker)
-- Container orchestration (Kubernetes)
+Hi, I’m Mo’men Atoum. I’m doing a Master’s degree in ICT and Internet Engineering at the University of Rome Tor Vergata, Italy. My work sits between networking, cloud infrastructure, and AI, mostly around how networks are managed and automated and how reliable they stay.
 
-Networking Background
-- Network architecture and routing
-- Overlay networking
-- Mobile Wireless Networks (4G / 5G technologies)
-- Communication protocols and network systems
+My current research looks at the safety of agentic AI in network management, specifically how automated operations interact with existing services and shared network resources. Outside research, I build and experiment with infrastructure systems to see how they work underneath.
 
-Engineering Approach  
-I enjoy building infrastructure systems manually to understand how large-scale cloud platforms operate internally, including the core mechanisms behind systems such as OpenStack.
+---
 
-Currently Expanding Knowledge In
-- Cloud-native infrastructure
-- Distributed systems
-- Kubernetes-based architectures
-- Scalable network systems
+## Research interests
 
-Collaboration Interests
-- Cloud infrastructure projects
-- Container platforms
-- Networking and distributed systems
+- Agentic AI and LLMs for network management
+- AI-driven network automation and orchestration
+- Network safety, reliability, and service dependencies
+- Software-Defined Networking (SDN) and network virtualization
+- Cloud-native infrastructure and distributed systems
 
-Contact
-- LinkedIn: https://www.linkedin.com/in/momen-atoum/
-- Email: atoummomen@gmail.com
+---
 
-<!---
-atoummomen/atoummomen is a special repository because its README.md appears on your GitHub profile.
---->
+## Technical background
+
+### Networking and infrastructure
+
+- Network architecture, routing, and communication protocols
+- Segment Routing over IPv6 (SRv6)
+- Overlay networking, Open vSwitch, and VXLAN
+- Mobile networks (4G/5G)
+
+### Cloud and virtualization
+
+- Infrastructure as a Service (IaaS)
+- QEMU/KVM virtualization
+- Docker and containerized environments
+- Kubernetes and cloud-native architectures
+- OpenStack architecture and infrastructure
+
+### Research and experimentation
+
+- LLM-based network management agents
+- Network automation and experimental testbeds
+- Containerlab-based network experimentation
+- Evaluation of network configuration and operational safety
+
+---
+
+## Collaboration
+
+I’m open to projects on network automation, cloud infrastructure, SDN, and distributed systems.
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/momen-atoum](https://www.linkedin.com/in/momen-atoum/)
+- **Email:** [atoummomen@gmail.com](mailto:atoummomen@gmail.com)
